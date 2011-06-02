@@ -1,0 +1,21 @@
+[submodule "Simple-Pool"]
+	path = Simple-Pool
+	url = https://github.com/ansca/Simple-Pool.git
+[submodule "Ghosts-vs.-Monsters"]
+	path = Ghosts-vs.-Monsters
+	url = https://github.com/ansca/Ghosts-vs.-Monsters.git
+[submodule "Samurai-Fruit"]
+	path = Samurai-Fruit
+	url = https://github.com/ansca/Samurai-Fruit.git
+[submodule "Gear-Animation"]
+	path = Gear-Animation
+	url = https://github.com/ansca/Gear-Animation.git
+[submodule "Air-Hockey"]
+	path = Air-Hockey
+	url = https://github.com/ansca/Air-Hockey.git
+[submodule "Tilt-Monster"]
+	path = Tilt-Monster
+	url = https://github.com/jonbeebe/Tilt-Monster.git
+[submodule "LuaFSM"]
+	path = LuaFSM
+	url = https://github.com/cornelisse/LuaFSM.git
