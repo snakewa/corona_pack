@@ -19,3 +19,12 @@
 [submodule "LuaFSM"]
 	path = LuaFSM
 	url = https://github.com/cornelisse/LuaFSM.git
+[submodule "Pinball-Madness"]
+	path = Pinball-Madness
+	url = https://github.com/ansca/Pinball-Madness.git
+[submodule "Flight-Control"]
+	path = Flight-Control
+	url = https://github.com/ansca/Flight-Control.git
+[submodule "Photoshop-to-Corona-Exporter"]
+	path = Photoshop-to-Corona-Exporter
+	url = https://github.com/KevCJones/Photoshop-to-Corona-Exporter.git
